@@ -1,0 +1,6 @@
+C:\VSSourceCode2019\IpAddressIntersectTest\obj\Debug\IpAddressIntersectTest.csproj.CoreCompileInputs.cache
+C:\VSSourceCode2019\IpAddressIntersectTest\bin\Debug\IpAddressIntersectTest.exe.config
+C:\VSSourceCode2019\IpAddressIntersectTest\bin\Debug\IpAddressIntersectTest.exe
+C:\VSSourceCode2019\IpAddressIntersectTest\bin\Debug\IpAddressIntersectTest.pdb
+C:\VSSourceCode2019\IpAddressIntersectTest\obj\Debug\IpAddressIntersectTest.exe
+C:\VSSourceCode2019\IpAddressIntersectTest\obj\Debug\IpAddressIntersectTest.pdb
